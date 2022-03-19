@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 d
 dd
 ddd
 dddd
 dddddddddddddddddddddddddddddd
+=======
+hello worl
+dkslfjdlfjijfalsjf;kjd
+>>>>>>> parent of 40ed7a9 (message_2)
